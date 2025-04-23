@@ -1,4 +1,4 @@
-# 📊 Customer Churn Prediction - Indianized Dataset 🇮🇳
+# 📊 Customer Churn Prediction 
 
 This project focuses on predicting customer churn using machine learning models, leveraging an "Indianized" version of the popular churn dataset. The project includes preprocessing, model building, evaluation, and visualizations to better understand churn behavior.
 
