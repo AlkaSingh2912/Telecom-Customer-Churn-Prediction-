@@ -44,8 +44,8 @@ This project focuses on predicting customer churn using machine learning models,
 ## 🤖 Models Used
 
 1. **Logistic Regression**
-2. **K-Nearest Neighbors (KNN)** - `n_neighbors=5`
-3. **Support Vector Machine (SVM)** - `kernel='rbf'`
+2. **K-Nearest Neighbors (KNN)**
+3. **Support Vector Machine (SVM)** 
 
 Each model is evaluated using:
 - Accuracy
